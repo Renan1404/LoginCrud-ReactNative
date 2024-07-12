@@ -1,2 +1,2 @@
-# LoginCrud ReactNative
+Para executar o projeto é npm start
  
